@@ -4,4 +4,4 @@
 
 ## Nonprofessional
 
-~~Beginner in Aircraft Design Engineer~~ Now in Computer Science~~, maybe~~.
+~~Beginner in Aircraft Design Engineer~~ Now in Computer Science ~~, maybe~~.
